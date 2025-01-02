@@ -114,7 +114,7 @@ SELECT Location,
        COUNT(product_table.Frequency_of_Purchases)  AS Frequency_of_Purchases
 FROM transaction_table
 INNER JOIN product_table
-ON 	transaction_table.Product_ID = product_table.Product_ID
+ON transaction_table.Product_ID = product_table.Product_ID
 GROUP BY Location
 ORDER BY Location;
 
