@@ -1,8 +1,8 @@
 # RetailEase-Corp-SQL-Code
 ## Description:
-In this SQL project, I analyzed customer transactions at RetailEase Corp. to uncover actionable insights for driving business growth. By integrating and querying datasets on Customers, Transactions, and Products. I identified Customer Insights, Sales Performance, and Operational Improvements. This analysis addressed key business challenges, such as improving customer retention and optimizing product offerings. Additionally, I highlighted revenue growth opportunities by pinpointing underperforming product category and targeting high-value customers.
+In this SQL project, I analyzed customer transactions at RetailEase Corp. to uncover actionable insights for driving business growth by integrating and querying datasets on Customers, Transactions, and Products. I identified Customer Insights, Sales Performance, and Operational Improvements. This analysis addressed key business challenges, such as improving customer retention and optimizing product offerings. Additionally, I highlighted revenue growth opportunities by pinpointing underperforming product categories and targeting high-value customers.
 ## Problem Statement:
-The project aims to analyze customer demographics, purchasing trends, and sales performance by category, location, and season using SQL. It will provide insights on top customers, recommend optimization strategies for discounts, promo codes, and shipping to enhance operational efficiency.
+The project aims to analyze customer demographics, purchasing trends, and sales performance by category, location, and season using SQL. It will provide insights on top customers, and recommend optimization strategies for discounts, promo codes, and shipping to enhance operational efficiency.
 ## Features:
 Technologies Used: SSMS (ETL and Query Development/Execution), Joins, CTE's, Windows Functions, Aggregate Functions, CASE Statement.
 ## Objectives:
